@@ -1,0 +1,24 @@
+{
+  "name": "Driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawitz28/Driver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawitz28/Driver/issues"
+  },
+  "homepage": "https://github.com/dawitz28/Driver#readme",
+  "dependencies": {
+    "faker": "^5.5.2",
+    "socket.io-client": "^2.4.0"
+  }
+}
